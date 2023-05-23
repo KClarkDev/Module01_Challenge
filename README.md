@@ -1,4 +1,4 @@
-# Coding Bootcamp Module 1 Challenge - Horiseon 
+# Horiseon - Accessibility Refactor
 
 ## Description
 
